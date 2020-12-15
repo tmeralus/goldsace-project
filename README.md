@@ -1,2 +1,3 @@
 # goldsace-project
-audio, artwork, and project files
+
+Part 2 project 
